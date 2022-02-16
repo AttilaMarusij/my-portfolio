@@ -45,7 +45,7 @@ export default function Contact() {
                 Адреса
               </h2>
               <p className="mt-1">
-                вул.Келецька 124 <br />
+                вул.Стельмаха 41 <br />
                 Вінниця, 21012
               </p>
             </div>
