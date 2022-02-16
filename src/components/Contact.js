@@ -37,7 +37,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2605.514515368424!2d28.39582471524285!3d49.22873358251339!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x472d5c4570b81781%3A0x6be75448615a602a!2z0YPQuy4g0JrQtdC70LXRhtC60LDRjywgMTI0LCDQktC40L3QvdC40YbQsCwg0JLQuNC90L3QuNGG0LrQsNGPINC-0LHQu9Cw0YHRgtGMLCAyMTAwMA!5e0!3m2!1sru!2sua!4v1633850483385!5m2!1sru!2sua"
+            src="https://www.google.com/maps/embed/v1/place?q=Вінниця+стельмаха+41&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-min px-6">
